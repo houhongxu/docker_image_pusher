@@ -8,3 +8,9 @@ xhofe/alist:latest
 jenkins/jenkins:lts
 
 nginx:alpine
+
+diygod/rsshub
+
+browserless/chrome
+
+redis:alpine

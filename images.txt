@@ -14,3 +14,5 @@ diygod/rsshub
 browserless/chrome
 
 redis:alpine
+
+ghcr.io/browserless/chromium:v2.32.0

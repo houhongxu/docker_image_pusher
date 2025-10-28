@@ -16,3 +16,5 @@ browserless/chrome
 redis:alpine
 
 ghcr.io/browserless/chromium:v2.32.0
+
+ghcr.io/browserless/chrome:v2.32.0
